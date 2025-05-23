@@ -291,7 +291,7 @@ export default function CheckoutPage() {
               </div>
             </div>
             <div className="border-t border-white/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-              <p className="text-white/70">© 2024 Decora. All rights reserved.</p>
+              <p className="text-white/70">© 2025 Decora. All rights reserved.</p>
               <div className="flex space-x-4 mt-4 md:mt-0">
                 <Link href="#" className="text-white/70 hover:text-white">
                   Privacy Policy
@@ -689,7 +689,7 @@ export default function CheckoutPage() {
             </div>
           </div>
           <div className="border-t border-white/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-white/70">© 2024 Decora. All rights reserved.</p>
+            <p className="text-white/70">© 2025 Decora. All rights reserved.</p>
             <div className="flex space-x-4 mt-4 md:mt-0">
               <Link href="#" className="text-white/70 hover:text-white">
                 Privacy Policy
